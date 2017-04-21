@@ -1,3 +1,1 @@
-# -OCTO--
 
-print(hello word);
